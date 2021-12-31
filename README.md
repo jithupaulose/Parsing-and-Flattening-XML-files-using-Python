@@ -1,4 +1,4 @@
-# Parsing and Flatten XML files using python
+# Parsing and Flatten XML files using Python
 This mini Project will show you how to extract data from an XML file using simple python code in an easily manipulative form. 
 
 
