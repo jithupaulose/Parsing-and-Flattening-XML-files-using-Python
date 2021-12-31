@@ -1,5 +1,6 @@
 # Parsing XML files in python
 How to efficiently extract data from an XML file using simple python code in an easily manipulative form
+
 XML (Extensible Markup Language) is a markup language which is very similar to HTML (Hypertext Markup Language). XML is used to structure data for transport and storage. It uses text and tags to describe the components in a file. XML files are a type of semi-structured data.
 
 
